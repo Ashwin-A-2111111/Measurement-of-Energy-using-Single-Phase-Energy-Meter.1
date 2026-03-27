@@ -1,5 +1,5 @@
-### Name:ANUVIND KRISHNA.K
-### Reg no:212223080004
+### Name: ashwin a
+### Reg no:212223080007
 # Aim:
 To measure energy using Single Phase Energy Meter
 
